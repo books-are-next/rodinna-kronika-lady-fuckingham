@@ -2,16 +2,16 @@
   "author": "creator",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-dd7c206",
+  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-a23dfed",
   "languagecode": "cs",
   "modified": "2021-05-11T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Z rodinné kroniky Lady Fuckingham",
-  "revision": "dd7c206",
+  "revision": "a23dfed",
   "generatedAt": {
-    "date": "Fri Apr 08 2022 10:51:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649415063721
+    "date": "Fri Apr 08 2022 10:58:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649415498172
   },
   "documents": [
     {
@@ -43,46 +43,6 @@
       "role": "chapter",
       "order": 1,
       "prev": "z_rodinne_kroniky_lady_fuckingham_001.html",
-      "next": "z_rodinne_kroniky_lady_fuckingham_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Z rodinné kroniky Lady Fuckingham",
-      "file": "z_rodinne_kroniky_lady_fuckingham_003.html",
-      "words": 8,
-      "chars": 54,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_002.html",
-      "next": "z_rodinne_kroniky_lady_fuckingham_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Z rodinné kroniky Lady Fuckingham",
-      "file": "z_rodinne_kroniky_lady_fuckingham_004.html",
-      "words": 95,
-      "chars": 621,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_003.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_005.html",
       "toc": [
         {
@@ -97,38 +57,18 @@
     {
       "title": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI • Z rodinné kroniky Lady Fuckingham",
       "file": "z_rodinne_kroniky_lady_fuckingham_005.html",
-      "words": 7,
-      "chars": 42,
-      "ideas": 1,
+      "words": 16005,
+      "chars": 95806,
+      "ideas": 260,
       "role": "chapter",
-      "order": 4,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_004.html",
-      "next": "z_rodinne_kroniky_lady_fuckingham_006.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Z rodinné kroniky Lady Fuckingham",
-      "file": "z_rodinne_kroniky_lady_fuckingham_006.html",
-      "words": 15998,
-      "chars": 95764,
-      "ideas": 259,
-      "role": "chapter",
-      "order": 5,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_005.html",
+      "order": 2,
+      "prev": "z_rodinne_kroniky_lady_fuckingham_002.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI",
           "id": null,
           "children": []
         }
@@ -141,8 +81,8 @@
       "chars": 78,
       "ideas": 1,
       "role": "chapter",
-      "order": 6,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_006.html",
+      "order": 3,
+      "prev": "z_rodinne_kroniky_lady_fuckingham_005.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_008.html",
       "toc": [
         {
@@ -161,7 +101,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "z_rodinne_kroniky_lady_fuckingham_007.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 22306,
       "ideas": 174,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "z_rodinne_kroniky_lady_fuckingham_008.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_010.html",
       "toc": [
@@ -201,7 +141,7 @@
       "chars": 19238,
       "ideas": 167,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "z_rodinne_kroniky_lady_fuckingham_009.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_011.html",
       "toc": [
@@ -221,7 +161,7 @@
       "chars": 18984,
       "ideas": 175,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "z_rodinne_kroniky_lady_fuckingham_010.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_012.html",
       "toc": [
@@ -241,7 +181,7 @@
       "chars": 19405,
       "ideas": 134,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "z_rodinne_kroniky_lady_fuckingham_011.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_013.html",
       "toc": [
@@ -261,7 +201,7 @@
       "chars": 23676,
       "ideas": 181,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "z_rodinne_kroniky_lady_fuckingham_012.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_014.html",
       "toc": [
@@ -281,9 +221,9 @@
       "chars": 31001,
       "ideas": 237,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "z_rodinne_kroniky_lady_fuckingham_013.html",
-      "next": "z_rodinne_kroniky_lady_fuckingham_015.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -295,20 +235,20 @@
       ]
     },
     {
-      "title": "Z rodinné kroniky Lady Fuckingham",
-      "file": "z_rodinne_kroniky_lady_fuckingham_015.html",
-      "words": 49,
-      "chars": 335,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 14,
+      "title": "Tiráž • Z rodinné kroniky Lady Fuckingham",
+      "file": "colophon.html",
+      "words": 153,
+      "chars": 1015,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "z_rodinne_kroniky_lady_fuckingham_014.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -322,9 +262,9 @@
       "ideas": 1355
     },
     "chapters": {
-      "words": 40169,
-      "chars": 231504,
-      "ideas": 1350
+      "words": 40017,
+      "chars": 230494,
+      "ideas": 1329
     }
   }
 }

@@ -16,10 +16,7 @@ meta:
 readingOrder:
   - z_rodinne_kroniky_lady_fuckingham_001.html
   - z_rodinne_kroniky_lady_fuckingham_002.html
-  - z_rodinne_kroniky_lady_fuckingham_003.html
-  - z_rodinne_kroniky_lady_fuckingham_004.html
   - z_rodinne_kroniky_lady_fuckingham_005.html
-  - z_rodinne_kroniky_lady_fuckingham_006.html
   - z_rodinne_kroniky_lady_fuckingham_007.html
   - z_rodinne_kroniky_lady_fuckingham_008.html
   - z_rodinne_kroniky_lady_fuckingham_009.html
@@ -28,10 +25,36 @@ readingOrder:
   - z_rodinne_kroniky_lady_fuckingham_012.html
   - z_rodinne_kroniky_lady_fuckingham_013.html
   - z_rodinne_kroniky_lady_fuckingham_014.html
-  - z_rodinne_kroniky_lady_fuckingham_015.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: z_rodinne_kroniky_lady_fuckingham_005.html
+        title: "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S\_HŇUPKAMI"
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_007.html
+        title: "PŘÍBĚH MÉ BABIČKY ANEB MAYINA ZPRÁVA O\_TOM, KTERAK SE SEZNÁMILA S\_UMĚNÍM LÁSKY"
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: z_rodinne_kroniky_lady_fuckingham_009.html
+        title: Kapitola I.
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_010.html
+        title: Kapitola II.
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_011.html
+        title: Kapitola III.
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_012.html
+        title: Kapitola IV.
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_013.html
+        title: Kapitola V.
+        hiddenTitle: false
+      - link: z_rodinne_kroniky_lady_fuckingham_014.html
+        title: Kapitola VI.
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
