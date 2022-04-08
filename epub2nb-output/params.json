@@ -1,0 +1,377 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Z rodinné kroniky Lady Fuckingham",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "creator",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-11T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_001.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_002.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_003.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_004.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_005.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_006.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_007.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_008.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "z_rodinne_kroniky_lady_fuckingham_015.md",
+            "xhtml": "z_rodinne_kroniky_lady_fuckingham_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Z rodinné kroniky Lady Fuckingham",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "creator",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-11T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_001.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_002.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_003.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_004.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_004.xhtml"
+      },
+      {
+        "titleSuggest": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_005.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_006.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_006.xhtml"
+      },
+      {
+        "titleSuggest": "PŘÍBĚH MÉ BABIČKY ANEB MAYINA ZPRÁVA O TOM, KTERAK SE SEZNÁMILA S UMĚNÍM LÁSKY",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_007.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_008.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "z_rodinne_kroniky_lady_fuckingham_015.md",
+        "xhtml": "z_rodinne_kroniky_lady_fuckingham_015.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_z_rodinne_kroniky_lady_fuckingham.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_seznam_-0-0-",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-12-12-",
+      "MLP_text_uprostred",
+      "MLP_text_uprostred_-I-B-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_kapitola",
+      "MLP_verse_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "p.MLP_text_bez1radku_-12-0-"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "rodinna-kronika-lady-fuckingham"
+    },
+    "generatedAt": 1649414529424
+  }
+}
