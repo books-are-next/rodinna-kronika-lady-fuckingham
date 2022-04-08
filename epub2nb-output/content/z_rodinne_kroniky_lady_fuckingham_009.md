@@ -1,9 +1,7 @@
 ---
-title: ''
+title: Kapitola I.
 contentType: prose
 ---
-
-Kapitola I.
 
   
 

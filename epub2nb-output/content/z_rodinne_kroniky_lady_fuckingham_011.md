@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Kapitola III.
 contentType: prose
 ---
 
-Kapitola III.
+**_Vyprávění Kate_**
 
-Vyprávění Kate
+  
 
 – Jak asi víš, jsem rodačka z Karibiku. Narodila jsem se v Santa Cruz, kde měl můj otec plantáž a mnoho otroků.
 
@@ -203,11 +203,15 @@ Ležel na mně celou svou vahou a ptáka měl pohřbeného hluboko ve mně.
 
 Po chvíli řekl: „Nevím čím to je, Nino, ale ještě nikdy jsem si to s tebou tak neužil. Ta tvoje kundička jako by mě dnes ani nechtěla pustit a uvnitř jako by mě i štípala do žaludu. To neumí každá žena, jen pár! Ach, přesně to je ono!“
 
+  
+
 (Zde jsem se neudržela a musela se Kate optat, jakže se to dělá.
 
 „To tě, drahoušku, klidně naučím. Když cítíš, že je pták nejhlouběji, jak jen to jde, zatáhni svaly vší silou svůj zadek. Když to uděláš správně, je to, jako bys ústy své dělohy štípala do vloženého žaludu. Zkus to na mém prstu. Ano! Přesně tak. To je ono.“
 
 „No tak už pokračuj! Co řekl potom?“)
+
+  
 
 Zeptal se mě: „Je na tebe slečna Kate hodná?“
 

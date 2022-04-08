@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Z rodinné kroniky Lady Fuckingham
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: creator
   publisher: Městská knihovna v Praze
   modified: '2021-05-11T00:00:00.000Z'
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - z_rodinne_kroniky_lady_fuckingham_001.html
   - z_rodinne_kroniky_lady_fuckingham_002.html
@@ -29,6 +33,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

@@ -1,11 +1,11 @@
 ---
-title: ''
+title: Kapitola V.
 contentType: prose
 ---
 
-Kapitola V.
+**_Vyprávění Kate končí_**
 
-Vyprávění Kate končí
+  
 
 Netřeba říkat, že od chvíle, kdy jsme zahodili poslední zbytky zdrženlivosti, jsme si spolu královsky užívali.
 
@@ -84,6 +84,8 @@ Vložili mi tedy rákosku do ruky, Carle se opřel o postel a vystrčil na mě
 „A teď,“ vykřikl kapitán, „to tomu rošťákovi pořádně nandej. Žádné slitování! Je na to určitě zvyklý ze školy.“
 
 Řezala jsem ho vší silou a brzy po jeho zadnici tekly tenké potůčky krve. Jeho kulky se stáhly ke kořenu jeho penisu, který málem vším tím vzrušením explodoval. Zajížděl jím do Hildiných úst, dokud nezaburácel hlasitým: „Och!“ Zároveň vyslal své semeno do jejího chřtánu.
+
+  
 
 Je také třeba zmínit, že během naší plavby ani Nina v žádném případě nezahálela. Každé ráno mě chodila umýt a obléci. Bavila mě vyprávěním o svých dobrodružstvích s námořníky, kteří ji každého večera přemlouvali, aby si k nim vlezla do houpacích sítí. Vyprávěla mi, že šoustání v síti pro ni bylo něco opravdu nového a vzrušujícího.
 
@@ -191,24 +193,24 @@ Kpt. L: „Ano, to bych moc rád.“
 
 Madam mu pak nahlas dopis přečetla a já jsem slyšela každičké slovo:
 
-„Má nejdražší Madam Stewartová!
+_„Má nejdražší Madam Stewartová!_
 
-Tento dopis ti předá má dcera Kate. Je to milá dívka věku dvanácti let. Kapitán Lemberg se zapřísahal, že ji bezpečně dopraví až do tvého domu, kde ti také předá školné za první rok.
+_Tento dopis ti předá má dcera Kate. Je to milá dívka věku dvanácti let. Kapitán Lemberg se zapřísahal, že ji bezpečně dopraví až do tvého domu, kde ti také předá školné za první rok._
 
-Vzdělání mé dcery je zanedbáno, hlavně co se týče psaní, gramatiky, kreslení a hudby. Neboj se proto být v těchto oborech dostatečně přísná.
+_Vzdělání mé dcery je zanedbáno, hlavně co se týče psaní, gramatiky, kreslení a hudby. Neboj se proto být v těchto oborech dostatečně přísná._
 
-V některých jiných oblastech by ovšem zase měla být napřed svému věku. Jelikož celý svůj život žila na plantáži obklopena nahými chlapci, dívkami i ženami, rozdíly mezi pohlavími jí vůbec nejsou cizí. Byla mnohokrát svědkem koitu mezi mužem a ženou.
+_V některých jiných oblastech by ovšem zase měla být napřed svému věku. Jelikož celý svůj život žila na plantáži obklopena nahými chlapci, dívkami i ženami, rozdíly mezi pohlavími jí vůbec nejsou cizí. Byla mnohokrát svědkem koitu mezi mužem a ženou._
 
-Prosím klaď velký důraz na její náboženské povinnosti a v neposlední řadě se jí pokus vštípit vytříbenost, tak charakteristickou pro tvé pohyby, které si stále věrně pamatuji od své poslední návštěvy před patnácti lety, kdy jsem tě pozoroval se pomalu svlékat před velkým zrcadlem ve tvém pokoji před tím, než jsi obdarovala můj pyj návštěvou své skvostné kundy.
+_Prosím klaď velký důraz na její náboženské povinnosti a v neposlední řadě se jí pokus vštípit vytříbenost, tak charakteristickou pro tvé pohyby, které si stále věrně pamatuji od své poslední návštěvy před patnácti lety, kdy jsem tě pozoroval se pomalu svlékat před velkým zrcadlem ve tvém pokoji před tím, než jsi obdarovala můj pyj návštěvou své skvostné kundy._
 
-Tyto krásné vzpomínky ve mně probouzejí hlubokou lítost, že nás od sebe dělí taková dálka!
+_Tyto krásné vzpomínky ve mně probouzejí hlubokou lítost, že nás od sebe dělí taková dálka!_
 
-Dále jsem se svou dcerou také poslal krásnou mulatku, jménem Nina, která by jí měla být po ruce jakožto její služebná.
+_Dále jsem se svou dcerou také poslal krásnou mulatku, jménem Nina, která by jí měla být po ruce jakožto její služebná._
 
 _Tvůj poslušný sluha  
 Sebastian de Lorme_
 
-P. S. Nina již není pannou, ač má velmi těsnou kundičku. Mohla by se ti hodit pro tvou výuku. Kate ani Nina nikdy nepoznaly kouzlo rákosky.“
+_P. S. Nina již není pannou, ač má velmi těsnou kundičku. Mohla by se ti hodit pro tvou výuku. Kate ani Nina nikdy nepoznaly kouzlo rákosky.“_
 
 Kpt. L: „Velmi zajímavý dopis. Používáte stále svou pověstnou rákosku, Madam?“
 
@@ -342,13 +344,13 @@ Nyní celý dopis přečtu nahlas a doufám, že se budeš studem červenat ste
 
 Zde tedy ten hrůzný dopis:
 
-Má drahá Alice!
+_Má drahá Alice!_
 
-Tolik toužím po dalším tvém polibku, po tvé úžasné kundičce! Když jsem tě měl naposledy, bylo to něco nezapomenutelného! Sním o tobě každou noc. Sním o tom, jak ti olizuji klitoris, o tom, jak do tebe zajíždím svým penisem a ty v extázi křičíš: Šukej mě!
+_Tolik toužím po dalším tvém polibku, po tvé úžasné kundičce! Když jsem tě měl naposledy, bylo to něco nezapomenutelného! Sním o tobě každou noc. Sním o tom, jak ti olizuji klitoris, o tom, jak do tebe zajíždím svým penisem a ty v extázi křičíš: Šukej mě!_
 
-Nemá cenu se nad těmito sny nějak pozastavovat a pokoušet se je vysvětlit, neboť jsou všechny jen odrazem naší spolu prožité reality!
+_Nemá cenu se nad těmito sny nějak pozastavovat a pokoušet se je vysvětlit, neboť jsou všechny jen odrazem naší spolu prožité reality!_
 
-Pozdravuj ode mě madam.
+_Pozdravuj ode mě madam._
 
 _Tvůj oddaný milenec  
 Henry‘_

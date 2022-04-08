@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Z rodinné kroniky Lady Fuckingham",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "creator",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-05-11T00:00:00.000Z"
+      "modified": "2021-05-11T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven2_kapitola\nMLP_uroven1_cast",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -17,12 +21,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-\nMLP_text_bez1radku_-12-12-",
       "brAfter": "",
-      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
-      "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "blockquote": "MLP_verse_-12-12-\n",
+      "figure": "MLP_obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_dopis_-I-\nMLP_dopis_bez1radku_-I-\nMLP_text_uprostred_-I-B-",
+      "strong": "MLP_text_uprostred_-I-B-\nMLP_tiraz_autor_a_nazev",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_001.md",
@@ -258,37 +263,37 @@
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola I.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola II.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola III.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola IV.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola V.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola VI.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_014.xhtml"
@@ -372,6 +377,6 @@
       "user": "books-are-next",
       "repo": "rodinna-kronika-lady-fuckingham"
     },
-    "generatedAt": 1649414529424
+    "generatedAt": 1649415009765
   }
 }

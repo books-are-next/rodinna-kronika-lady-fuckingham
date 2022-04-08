@@ -1,14 +1,16 @@
 ---
-title: ''
+title: Kapitola IV.
 contentType: prose
 ---
 
-Kapitola IV.
+**_Vyprávění Kate pokračuje. Plavba lodí.  
+Kapitán Lemberg a jeho neteř Hilda_**
 
-Vyprávění Kate pokračuje. Plavba lodí.  
-Kapitán Lemberg a jeho neteř Hilda
+  
 
 Jen co přišel ten pravý čas a May a její přítelkyně Kate spolu znovu ležely zachumlané v posteli a štípaly se navzájem do klitorisů, netrvalo dlouho a tak se vzrušily, že si rovnou na střídačku lízaly ty svoje nenasytné pičky, dokud jim z nich netekly vodopády horké mrdky, a jen co se po chvíli probudily ze slastné orgasmické opilosti, řekla May tichounce: „A teď, Katie, pokračuj s tou svojí úžasnou a zajímavou historkou, prosím.“
+
+  
 
 – Mé poslední dny u tatínka na plantáži byly rázem ty tam, a když jsme se se slzami v očích rozloučili, zanechal mě papá v péči kapitána Lemberga a jeho neteře, Hildy. Měla jsem moc velkou radost, že s námi bude také cestovat, neboť to byla velmi příjemná a radostná dívka, nehledě na to, že stejnou plavbu již před tím jednou absolvovala.
 
@@ -208,6 +210,8 @@ Po chvíli jsem slyšela, jak se ho ptá na otázky ohledně jeho penisu a varl
 
 „Carle, drahý, já sama žádnou svobodu nevyžaduji, ale udělá-li tě to šťastným a budeš-li mě díky tomu milovat ještě více, budu ráda souhlasit. Ale nezapomeň, že co jsi slíbil, budeš muset plnit.“
 
+  
+
 („Počkej, Kate, a vzali se? A dodržovali svoji úmluvu?“
 
 „Vzali, a když jsem je naposled viděla, byl to ten nejšťastnější pár.“
@@ -217,6 +221,8 @@ Po chvíli jsem slyšela, jak se ho ptá na otázky ohledně jeho penisu a varl
 „No, drahoušku, je těžké ti na tvou otázku odpovědět. Většina žen chce mít svého muže jen pro sebe, ale pokud před sňatkem žili nevázaným životem, taková úmluva je jen rozumná. Ale věz, že již brzy budeš mít možnost posoudit sama, tvůj tatínek se totiž rozhodl je pozvat na návštěvu, jen co se Carle vrátí ze své poslední plavby.“
 
 „Ach, to je skvělá zpráva! Těším se, až poznám Hildu, a pan T snad dorazí také, již na mě nedokáže dále čekat, nebo to alespoň psal v dopise tatínkovi. Ale prosím pokračuj, Kate, pověz, co se dělo dál.“)
+
+  
 
 – Jen toto: Následujícího dne řekl Carle kapitánovi o svém zasnou­bení s jeho neteří a o tom, že se plánují vzít, jen co dorazí do přístavu.
 
