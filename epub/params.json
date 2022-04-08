@@ -45,7 +45,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_002.md",
@@ -53,43 +54,48 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_003.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_004.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_005.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI"
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_006.md",
@@ -99,30 +105,35 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "devoured": true,
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_007.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_007.xhtml",
             "id": 6,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "z_rodinne_kroniky_lady_fuckingham_008.md",
-            "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "z_rodinne_kroniky_lady_fuckingham_008.md",
+                "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "PŘÍBĚH MÉ BABIČKY ANEB MAYINA ZPRÁVA O TOM, KTERAK SE SEZNÁMILA S UMĚNÍM LÁSKY"
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
@@ -133,7 +144,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola I."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
@@ -144,7 +157,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola II."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
@@ -155,7 +170,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola III."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
@@ -166,7 +183,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola IV."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
@@ -177,7 +196,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola V."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
@@ -188,20 +209,24 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Kapitola VI."
           },
           {
             "filename": "z_rodinne_kroniky_lady_fuckingham_015.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_015.xhtml",
             "id": 14,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -264,37 +289,37 @@
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola I.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola II.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola III.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola IV.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola V.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola VI.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_014.xhtml"
@@ -378,6 +403,6 @@
       "user": "books-are-next",
       "repo": "rodinna-kronika-lady-fuckingham"
     },
-    "generatedAt": 1649414529424
+    "generatedAt": 1649415009765
   }
 }
