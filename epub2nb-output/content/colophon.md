@@ -2,13 +2,14 @@
 title: Tiráž
 ---
 
-***
-
-Z rodinné kroniky  
-lady Fuckingham
-
-_Přeložil Jakub Kaifosz_
-
+**Z rodinné kroniky lady Fuckingham**  
+Překlad Jakub Kaifosz  
+Fotografie na obálce Suti Stock Photo/Shutterstock.com  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -24,51 +25,5 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 14. 5. 2021.
 
 ![](../Images/image002.jpg)
-
-
-***
-
-**Z rodinné kroniky lady Fuckingham**
-
-  
-
-Překlad Jakub Kaifosz
-
-  
-
-Fotografie na obálce Suti Stock Photo/Shutterstock.com
-
-  
-
-Redakce Jaroslava Bednářová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 1.0 ze 14. 5. 2021
-
-  
-
-ISBN 978-80-274-1587-8 (epub)
-
-  
-
-ISBN 978-80-274-1588-5 (pdf)
-
-  
-
-ISBN 978-80-274-1589-2 (prc)

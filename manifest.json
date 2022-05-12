@@ -1,17 +1,32 @@
 {
-  "author": "creator",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-a23dfed",
-  "languagecode": "cs",
-  "modified": "2021-05-11T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Z rodinné kroniky Lady Fuckingham",
-  "revision": "a23dfed",
+  "author": "creator",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-202d0f3",
+  "revision": "202d0f3",
+  "readingOrder": [
+    "z_rodinne_kroniky_lady_fuckingham_001.html",
+    "promo.html",
+    "z_rodinne_kroniky_lady_fuckingham_005.html",
+    "z_rodinne_kroniky_lady_fuckingham_007.html",
+    "z_rodinne_kroniky_lady_fuckingham_008.html",
+    "z_rodinne_kroniky_lady_fuckingham_009.html",
+    "z_rodinne_kroniky_lady_fuckingham_010.html",
+    "z_rodinne_kroniky_lady_fuckingham_011.html",
+    "z_rodinne_kroniky_lady_fuckingham_012.html",
+    "z_rodinne_kroniky_lady_fuckingham_013.html",
+    "z_rodinne_kroniky_lady_fuckingham_014.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Apr 08 2022 10:58:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649415498172
+    "date": "Thu May 12 2022 10:42:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352164506
   },
   "documents": [
     {
@@ -23,7 +38,7 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "z_rodinne_kroniky_lady_fuckingham_002.html",
+      "next": "promo.html",
       "toc": [
         {
           "index": 0,
@@ -35,8 +50,8 @@
       ]
     },
     {
-      "title": "Z rodinné kroniky Lady Fuckingham",
-      "file": "z_rodinne_kroniky_lady_fuckingham_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -44,25 +59,17 @@
       "order": 1,
       "prev": "z_rodinne_kroniky_lady_fuckingham_001.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI • Z rodinné kroniky Lady Fuckingham",
+      "title": "SUB UMBRA ANEBVE STÍNU ČIHRÁTKY S HŇUPKAMI",
       "file": "z_rodinne_kroniky_lady_fuckingham_005.html",
       "words": 16005,
       "chars": 95806,
       "ideas": 260,
       "role": "chapter",
       "order": 2,
-      "prev": "z_rodinne_kroniky_lady_fuckingham_002.html",
+      "prev": "promo.html",
       "next": "z_rodinne_kroniky_lady_fuckingham_007.html",
       "toc": [
         {
@@ -75,7 +82,7 @@
       ]
     },
     {
-      "title": "PŘÍBĚH MÉ BABIČKY ANEB MAYINA ZPRÁVA O TOM, KTERAK SE SEZNÁMILA S UMĚNÍM LÁSKY • Z rodinné kroniky Lady Fuckingham",
+      "title": "PŘÍBĚH MÉ BABIČKY ANEB MAYINA ZPRÁVA O TOM, KTERAK SE SEZNÁMILA S UMĚNÍM LÁSKY",
       "file": "z_rodinne_kroniky_lady_fuckingham_007.html",
       "words": 14,
       "chars": 78,
@@ -115,7 +122,7 @@
       ]
     },
     {
-      "title": "Kapitola I. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola I.",
       "file": "z_rodinne_kroniky_lady_fuckingham_009.html",
       "words": 3994,
       "chars": 22306,
@@ -135,7 +142,7 @@
       ]
     },
     {
-      "title": "Kapitola II. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola II.",
       "file": "z_rodinne_kroniky_lady_fuckingham_010.html",
       "words": 3491,
       "chars": 19238,
@@ -155,7 +162,7 @@
       ]
     },
     {
-      "title": "Kapitola III. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola III.",
       "file": "z_rodinne_kroniky_lady_fuckingham_011.html",
       "words": 3462,
       "chars": 18984,
@@ -175,7 +182,7 @@
       ]
     },
     {
-      "title": "Kapitola IV. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola IV.",
       "file": "z_rodinne_kroniky_lady_fuckingham_012.html",
       "words": 3472,
       "chars": 19405,
@@ -195,7 +202,7 @@
       ]
     },
     {
-      "title": "Kapitola V. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola V.",
       "file": "z_rodinne_kroniky_lady_fuckingham_013.html",
       "words": 4148,
       "chars": 23676,
@@ -215,7 +222,7 @@
       ]
     },
     {
-      "title": "Kapitola VI. • Z rodinné kroniky Lady Fuckingham",
+      "title": "Kapitola VI.",
       "file": "z_rodinne_kroniky_lady_fuckingham_014.html",
       "words": 5431,
       "chars": 31001,
@@ -235,11 +242,11 @@
       ]
     },
     {
-      "title": "Tiráž • Z rodinné kroniky Lady Fuckingham",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 153,
-      "chars": 1015,
-      "ideas": 22,
+      "words": 129,
+      "chars": 849,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "z_rodinne_kroniky_lady_fuckingham_014.html",
@@ -257,9 +264,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40178,
-      "chars": 231560,
-      "ideas": 1355
+      "words": 40154,
+      "chars": 231394,
+      "ideas": 1348
     },
     "chapters": {
       "words": 40017,

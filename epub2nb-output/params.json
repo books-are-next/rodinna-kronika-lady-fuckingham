@@ -52,7 +52,7 @@
             "filename": "z_rodinne_kroniky_lady_fuckingham_002.md",
             "xhtml": "z_rodinne_kroniky_lady_fuckingham_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -288,37 +288,37 @@
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_008.xhtml"
       },
       {
-        "titleSuggest": "Kapitola I.",
+        "titleSuggest": "Kapitola I\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_009.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_009.xhtml"
       },
       {
-        "titleSuggest": "Kapitola II.",
+        "titleSuggest": "Kapitola II\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_010.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_010.xhtml"
       },
       {
-        "titleSuggest": "Kapitola III.",
+        "titleSuggest": "Kapitola III\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_011.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_011.xhtml"
       },
       {
-        "titleSuggest": "Kapitola IV.",
+        "titleSuggest": "Kapitola IV\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_012.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_012.xhtml"
       },
       {
-        "titleSuggest": "Kapitola V.",
+        "titleSuggest": "Kapitola V\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_013.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_013.xhtml"
       },
       {
-        "titleSuggest": "Kapitola VI.",
+        "titleSuggest": "Kapitola VI\\.",
         "subtitleSuggest": "",
         "filename": "z_rodinne_kroniky_lady_fuckingham_014.md",
         "xhtml": "z_rodinne_kroniky_lady_fuckingham_014.xhtml"
@@ -402,6 +402,6 @@
       "user": "books-are-next",
       "repo": "rodinna-kronika-lady-fuckingham"
     },
-    "generatedAt": 1649415449117
+    "generatedAt": 1652351598369
   }
 }
