@@ -1,5 +1,5 @@
 ---
-title: Kapitola I.
+title: Kapitola I\.
 contentType: prose
 ---
 

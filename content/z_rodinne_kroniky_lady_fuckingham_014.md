@@ -1,5 +1,5 @@
 ---
-title: Kapitola VI.
+title: Kapitola VI\.
 contentType: prose
 ---
 

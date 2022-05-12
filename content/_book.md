@@ -15,7 +15,7 @@ meta:
   edition: beletrie
 readingOrder:
   - z_rodinne_kroniky_lady_fuckingham_001.html
-  - z_rodinne_kroniky_lady_fuckingham_002.html
+  - promo.html
   - z_rodinne_kroniky_lady_fuckingham_005.html
   - z_rodinne_kroniky_lady_fuckingham_007.html
   - z_rodinne_kroniky_lady_fuckingham_008.html
