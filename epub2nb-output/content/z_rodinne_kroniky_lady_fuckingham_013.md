@@ -3,9 +3,13 @@ title: Kapitola V\.
 contentType: prose
 ---
 
+<section>
+
 **_Vyprávění Kate končí_**
 
-  
+</section>
+
+<section>
 
 Netřeba říkat, že od chvíle, kdy jsme zahodili poslední zbytky zdrženlivosti, jsme si spolu královsky užívali.
 
@@ -85,7 +89,9 @@ Vložili mi tedy rákosku do ruky, Carle se opřel o postel a vystrčil na mě
 
 Řezala jsem ho vší silou a brzy po jeho zadnici tekly tenké potůčky krve. Jeho kulky se stáhly ke kořenu jeho penisu, který málem vším tím vzrušením explodoval. Zajížděl jím do Hildiných úst, dokud nezaburácel hlasitým: „Och!“ Zároveň vyslal své semeno do jejího chřtánu.
 
-  
+</section>
+
+<section>
 
 Je také třeba zmínit, že během naší plavby ani Nina v žádném případě nezahálela. Každé ráno mě chodila umýt a obléci. Bavila mě vyprávěním o svých dobrodružstvích s námořníky, kteří ji každého večera přemlouvali, aby si k nim vlezla do houpacích sítí. Vyprávěla mi, že šoustání v síti pro ni bylo něco opravdu nového a vzrušujícího.
 
@@ -193,7 +199,9 @@ Kpt. L: „Ano, to bych moc rád.“
 
 Madam mu pak nahlas dopis přečetla a já jsem slyšela každičké slovo:
 
-  
+</section>
+
+<section>
 
 _„Má nejdražší Madam Stewartová!_
 
@@ -214,7 +222,9 @@ Sebastian de Lorme_
 
 _P. S. Nina již není pannou, ač má velmi těsnou kundičku. Mohla by se ti hodit pro tvou výuku. Kate ani Nina nikdy nepoznaly kouzlo rákosky.“_
 
-  
+</section>
+
+<section>
 
 Kpt. L: „Velmi zajímavý dopis. Používáte stále svou pověstnou rákosku, Madam?“
 
@@ -272,7 +282,9 @@ V pokoji byly tři úzké postýlky a madam nám řekla, že pravidlem je, aby
 
 Pak mě políbila a řekla mi, abych si nezapomněla přečíst pra­vidla, která byla připíchnutá na zeď. Zněla nějak takhle:
 
-  
+</section>
+
+<section>
 
 Pravidlo I – Každý žák se před tím, než se odebere na lože, musí svléknout do naha a celý se umýt.
 
@@ -280,7 +292,9 @@ Pravidlo II – Žádný žák si nesmí prohlížet své pohlaví v zrcadle.
 
 Pravidlo III – Trestem za porušení těchto pravidel je dvanáct ran rákoskou.
 
-  
+</section>
+
+<section>
 
 Když jsem pravidla četla nahlas Nině, zeptala se: „A jak madam zjistí, že jsme je porušily?“
 
@@ -350,7 +364,9 @@ Nyní celý dopis přečtu nahlas a doufám, že se budeš studem červenat ste
 
 Zde tedy ten hrůzný dopis:
 
-  
+</section>
+
+<section>
 
 _Má drahá Alice!_
 
@@ -374,3 +390,5 @@ Politovala jsem ji a zeptala jsem se, jestli pánové potom ještě někdy při
 Alice řekla, že určitě, ale že se jí nikdy nenaskytla šance to dokázat. I tak, když v sobotu nepozorovaně vklouzne do zahrady, vždy vidí na břehu přivázané loďky. „Ale to je bohužel vše, co vím, Katie. Možná jednoho dne objevíme více.“
 
 Kate řekla, že Alice vroucně poděkovala za to, že jí vše osvětlila, pak se políbily a šly spát.
+
+</section>

@@ -3,13 +3,19 @@ title: Kapitola VI\.
 contentType: prose
 ---
 
+<section>
+
 **_Dopis od Susey_**
 
-  
+</section>
+
+<section>
 
 Někdy tou dobou jsem obdržela dopis od Susey, která, když začaly prázdniny, odjela za strýcem do Skotska. Nemá cenu vám tedy její dobrodružství převypravovat, když si ho můžete přečíst v jejích vlastních slovech:
 
-  
+</section>
+
+<section>
 
 _Má nejdražší May,_
 
@@ -380,7 +386,9 @@ _Susey__
 
 _P. S. Dobře tento dopis schovej! Tvůj otec ho nesmí za žádnou cenu objevit! Napiš mi brzo a vyprávěj mi o všem._
 
-  
+</section>
+
+<section>
 
 Schovala jsem si ten krásný dopis do kapsy a uvědomila si, že mi Kate nikdy nevyprávěla, jak se vlastně poprvé setkala s mým otcem. Šla jsem jí tedy hledat do jídelny a našla jsem ji, jak společně s mým tatínkem sedí na gauči a navzájem si šimrají genitálie.
 
@@ -472,12 +480,18 @@ Tomu mému andílkovi je právě dvanáct let a je velmi pyšná na to, že dok
 
 Pan T ji plánuje odpanit o jejích čtrnáctých narozeninách. Říkala jsem mu, že čtrnáct je moc brzo a že by měl počkat alespoň do patnácti, ale je tak nedočkavý, že se bojím, že to v žádném případě nedokáže vydržet.
 
-  
+</section>
+
+<section>
 
 > A tak tedy drahý čtenáři, dámo či pane, sbohem!  
 > Ať vám čurák věčně stojí,  
 > a kunda vlhká navždy svrbí!
 
-  
+</section>
+
+<section>
 
 Finis
+
+</section>

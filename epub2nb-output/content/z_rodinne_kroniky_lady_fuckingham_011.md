@@ -3,9 +3,13 @@ title: Kapitola III\.
 contentType: prose
 ---
 
+<section>
+
 **_Vyprávění Kate_**
 
-  
+</section>
+
+<section>
 
 – Jak asi víš, jsem rodačka z Karibiku. Narodila jsem se v Santa Cruz, kde měl můj otec plantáž a mnoho otroků.
 
@@ -203,7 +207,9 @@ Ležel na mně celou svou vahou a ptáka měl pohřbeného hluboko ve mně.
 
 Po chvíli řekl: „Nevím čím to je, Nino, ale ještě nikdy jsem si to s tebou tak neužil. Ta tvoje kundička jako by mě dnes ani nechtěla pustit a uvnitř jako by mě i štípala do žaludu. To neumí každá žena, jen pár! Ach, přesně to je ono!“
 
-  
+</section>
+
+<section>
 
 (Zde jsem se neudržela a musela se Kate optat, jakže se to dělá.
 
@@ -211,7 +217,9 @@ Po chvíli řekl: „Nevím čím to je, Nino, ale ještě nikdy jsem si to s t
 
 „No tak už pokračuj! Co řekl potom?“)
 
-  
+</section>
+
+<section>
 
 Zeptal se mě: „Je na tebe slečna Kate hodná?“
 
@@ -356,3 +364,5 @@ Ale to už jsem ti, drahá May, řekla víc, než jsem kdy komu o sobě vypráv
 – Ne, Kate, drahoušku. Miluji tě stokrát více za tvou důvěru a náklonnost, ale už neotálej a vyprávěj mi o své cestě a o tom, jak jsi poprvé potkala mého otce.
 
 – Budu, má nejdražší, ale ne dnes. Jsem unavená a ospalá. Ale teď mě ještě polib na dobrou noc.
+
+</section>
