@@ -3,8 +3,6 @@ title: Kapitola II\.
 contentType: prose
 ---
 
-  
-
 Když přišly prázdniny a škola byla zavřená, vrátila jsem se domů ke svému ovdovělému otci. Susey naopak odjela do Skotska za svým strýcem, starým mládencem.
 
 Slíbily jsme si, že si budeme často dopisovat o všem zajímavém, co nás o prázdninách potká. Bez Susey jsem se cítila velice osamělá. A ještě více se mi stýskalo po panu T.

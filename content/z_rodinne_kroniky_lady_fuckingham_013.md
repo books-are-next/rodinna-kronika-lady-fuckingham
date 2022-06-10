@@ -193,6 +193,8 @@ Kpt. L: „Ano, to bych moc rád.“
 
 Madam mu pak nahlas dopis přečetla a já jsem slyšela každičké slovo:
 
+  
+
 _„Má nejdražší Madam Stewartová!_
 
 _Tento dopis ti předá má dcera Kate. Je to milá dívka věku dvanácti let. Kapitán Lemberg se zapřísahal, že ji bezpečně dopraví až do tvého domu, kde ti také předá školné za první rok._
@@ -211,6 +213,8 @@ _Tvůj poslušný sluha
 Sebastian de Lorme_
 
 _P. S. Nina již není pannou, ač má velmi těsnou kundičku. Mohla by se ti hodit pro tvou výuku. Kate ani Nina nikdy nepoznaly kouzlo rákosky.“_
+
+  
 
 Kpt. L: „Velmi zajímavý dopis. Používáte stále svou pověstnou rákosku, Madam?“
 
@@ -267,6 +271,8 @@ Madam nás pak vyzvala, abychom ji následovaly, a zavedla nás dlouhou chodbou
 V pokoji byly tři úzké postýlky a madam nám řekla, že pravidlem je, aby každý žák měl svou vlastní postel.
 
 Pak mě políbila a řekla mi, abych si nezapomněla přečíst pra­vidla, která byla připíchnutá na zeď. Zněla nějak takhle:
+
+  
 
 Pravidlo I – Každý žák se před tím, než se odebere na lože, musí svléknout do naha a celý se umýt.
 
@@ -343,6 +349,8 @@ A pak madam přečetla moje jméno.
 Nyní celý dopis přečtu nahlas a doufám, že se budeš studem červenat stejně, jako se za chvíli bude červenat tvůj nezbedný zadek.
 
 Zde tedy ten hrůzný dopis:
+
+  
 
 _Má drahá Alice!_
 

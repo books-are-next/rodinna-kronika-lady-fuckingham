@@ -9,6 +9,8 @@ contentType: prose
 
 Někdy tou dobou jsem obdržela dopis od Susey, která, když začaly prázdniny, odjela za strýcem do Skotska. Nemá cenu vám tedy její dobrodružství převypravovat, když si ho můžete přečíst v jejích vlastních slovech:
 
+  
+
 _Má nejdražší May,_
 
 _toho rána, co jsme se rozloučily, jsem musela ještě ujít celou jednu míli, než jsem konečně došla na místo, kde na mě čekal dostavník. Johny Cox, nastávající mé sestry Jane, mi přišel naproti a pomohl mi s truhlou přes pole a stezky až k místu, kde dostavník nabírá pasažéry._
@@ -378,6 +380,8 @@ _Susey__
 
 _P. S. Dobře tento dopis schovej! Tvůj otec ho nesmí za žádnou cenu objevit! Napiš mi brzo a vyprávěj mi o všem._
 
+  
+
 Schovala jsem si ten krásný dopis do kapsy a uvědomila si, že mi Kate nikdy nevyprávěla, jak se vlastně poprvé setkala s mým otcem. Šla jsem jí tedy hledat do jídelny a našla jsem ji, jak společně s mým tatínkem sedí na gauči a navzájem si šimrají genitálie.
 
 Papá si mě hned všimnul a zvolal: „Přidej se k nám, May, tolik po tobě toužím!“
@@ -468,8 +472,12 @@ Tomu mému andílkovi je právě dvanáct let a je velmi pyšná na to, že dok
 
 Pan T ji plánuje odpanit o jejích čtrnáctých narozeninách. Říkala jsem mu, že čtrnáct je moc brzo a že by měl počkat alespoň do patnácti, ale je tak nedočkavý, že se bojím, že to v žádném případě nedokáže vydržet.
 
+  
+
 > A tak tedy drahý čtenáři, dámo či pane, sbohem!  
 > Ať vám čurák věčně stojí,  
 > a kunda vlhká navždy svrbí!
+
+  
 
 Finis
