@@ -3,6 +3,8 @@ title: Kapitola I\.
 contentType: prose
 ---
 
+<section>
+
 Když mi bylo šestnáct let, zaučovala jsem se jako učitelka ve škole v N. Měla jsem svou vlastní ložnici, ale vždy jsem si k sobě vybrala jednu ze starších studentek, abych nespala sama. Má nejoblíbenější, Susey G, byla v podstatě mého věku a byla to velmi příjemná a sympatická dívka. Brzy jsme se staly důvěrnými přítelkyněmi a slíbily jsme si, že si budeme vyzrazovat i ta nejniternější tajemství.
 
 Obě jsme byly nadmíru zvědavé, když došlo na tajemství rozkoší lásky, a často jsme si o tomto tématu dokázaly povídat i celou noc, přičemž jsme se všelijak osahávaly a prstily si kundičky.
@@ -348,3 +350,5 @@ Na dalším obrázku mu v předklonu ukazuje celou svou obnaženou zadnici a o
 Její kundička jakoby se celá třásla slastí, když do ní tu obludnost vráží.
 
 „No tak, pořádně, Sambo! Ať ta slečinka pozná, jaké rozkoše jí může nabídnout jen a pouze obří žilnatá anakonda nenáviděného negra.“
+
+</section>

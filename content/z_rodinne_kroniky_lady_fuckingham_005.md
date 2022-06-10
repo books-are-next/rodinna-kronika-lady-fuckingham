@@ -7,11 +7,7 @@ contentType: prose
 
 
 
-  
-
-  
-
-  
+<section>
 
 Máj, rozjařený to měsíc, byl vždy slavný pro svůj příznivý vliv na křehké pohlaví.
 
@@ -529,6 +525,10 @@ Prozíravý Višnu předstíral, že byl právě probuzen z hlubokého spánku,
 
 Později jsem se dozvěděl od jeho ženy, že mu pod přísahou tajemství přiznala, co všechno jsme tam té noci prováděli a že byl Colonel jejím vyprávěním tuze pobaven. Tak i tak již byl bohužel čas, abych se vrátil do města a ukončil tak své „hrátky s hňupkami“, které po mé poučné návštěvě už „hňupkami“ dále nebudou. Když nad tím tak přemýšlím, tak to, že Adam a Eva poznali, že jsou „nazí“, poté co okusili plody stromu vědění, má doopravdy znamenat, že objevili „_l’arte d’affaire l’amour_.“
 
-  
+</section>
+
+<section>
 
 Finis
+
+</section>

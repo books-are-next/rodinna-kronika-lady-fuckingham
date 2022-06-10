@@ -3,6 +3,8 @@ title: Kapitola II\.
 contentType: prose
 ---
 
+<section>
+
 Když přišly prázdniny a škola byla zavřená, vrátila jsem se domů ke svému ovdovělému otci. Susey naopak odjela do Skotska za svým strýcem, starým mládencem.
 
 Slíbily jsme si, že si budeme často dopisovat o všem zajímavém, co nás o prázdninách potká. Bez Susey jsem se cítila velice osamělá. A ještě více se mi stýskalo po panu T.
@@ -334,3 +336,5 @@ Držela mě za zadek a lízala mi kundu jako vzteklý pes.
 Chvíli jsem si to užívala a pak jsem řekla: „Teď je řada na mně, drahá Kate. Ty vyprávěj, jak jsi slíbila, a já se zatím budu starat o tu tvoji roztomilou pipinku.“
 
 Seděla jsem na stoličce mezi jejími stehny, hlavu jsem měla zabořenou hluboko v jejím klíně a naslouchala vyprávění.
+
+</section>

@@ -3,14 +3,20 @@ title: Kapitola IV\.
 contentType: prose
 ---
 
+<section>
+
 **_Vyprávění Kate pokračuje. Plavba lodí.  
 Kapitán Lemberg a jeho neteř Hilda_**
 
-  
+</section>
+
+<section>
 
 Jen co přišel ten pravý čas a May a její přítelkyně Kate spolu znovu ležely zachumlané v posteli a štípaly se navzájem do klitorisů, netrvalo dlouho a tak se vzrušily, že si rovnou na střídačku lízaly ty svoje nenasytné pičky, dokud jim z nich netekly vodopády horké mrdky, a jen co se po chvíli probudily ze slastné orgasmické opilosti, řekla May tichounce: „A teď, Katie, pokračuj s tou svojí úžasnou a zajímavou historkou, prosím.“
 
-  
+</section>
+
+<section>
 
 – Mé poslední dny u tatínka na plantáži byly rázem ty tam, a když jsme se se slzami v očích rozloučili, zanechal mě papá v péči kapitána Lemberga a jeho neteře, Hildy. Měla jsem moc velkou radost, že s námi bude také cestovat, neboť to byla velmi příjemná a radostná dívka, nehledě na to, že stejnou plavbu již před tím jednou absolvovala.
 
@@ -210,7 +216,9 @@ Po chvíli jsem slyšela, jak se ho ptá na otázky ohledně jeho penisu a varl
 
 „Carle, drahý, já sama žádnou svobodu nevyžaduji, ale udělá-li tě to šťastným a budeš-li mě díky tomu milovat ještě více, budu ráda souhlasit. Ale nezapomeň, že co jsi slíbil, budeš muset plnit.“
 
-  
+</section>
+
+<section>
 
 („Počkej, Kate, a vzali se? A dodržovali svoji úmluvu?“
 
@@ -222,7 +230,9 @@ Po chvíli jsem slyšela, jak se ho ptá na otázky ohledně jeho penisu a varl
 
 „Ach, to je skvělá zpráva! Těším se, až poznám Hildu, a pan T snad dorazí také, již na mě nedokáže dále čekat, nebo to alespoň psal v dopise tatínkovi. Ale prosím pokračuj, Kate, pověz, co se dělo dál.“)
 
-  
+</section>
+
+<section>
 
 – Jen toto: Následujícího dne řekl Carle kapitánovi o svém zasnou­bení s jeho neteří a o tom, že se plánují vzít, jen co dorazí do přístavu.
 
@@ -275,3 +285,5 @@ A Carle na to odpovídal: „Kuř mu toho ptáka pořádně, Hildo, kuř toho b
 Já jsem zatím tlačila svůj klín na Carlova ústa, přes která tekla moje horká mrdka. Také jsem se nedokázala ovládnout a křičela jsem svorně: „Kundy, ptáci, mrdky, prdky!“
 
 Carle pak odešel na palubu a kapitán se odpotácel do své kajuty. Hilda a já jsme se také odebraly na lože a brzy jsme spaly jako zabité.
+
+</section>
