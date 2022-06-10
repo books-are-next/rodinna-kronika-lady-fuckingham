@@ -13,14 +13,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Máj, rozjařený to měsíc, byl vždy slavný pro svůj příznivý vliv na křehké pohlaví.
 
 Budu vám vyprávět o třech událostech, které se mi přihodily v květnu roku 1878, když jsem se vydal do Sussexu navštívit své sestřenice, kterým pro všechnu tu zábavu, kterou mi čas od času poskytovaly, familiárně říkám Hňupky.
@@ -536,5 +528,7 @@ Bylo něco mezi jedenáctou a půlnocí. Zrovna jsme se probírali z láskypln
 Prozíravý Višnu předstíral, že byl právě probuzen z hlubokého spánku, takže ke dveřím zrovna dvakrát nespěchal, tudíž jsme se stihli celkem i upravit, abychom při představování Colonelovi nevzbuzovali ani nejmenšího podezření. Přítomnost tolika mladých lidí ho v první chvíli velice znervóznila.
 
 Později jsem se dozvěděl od jeho ženy, že mu pod přísahou tajemství přiznala, co všechno jsme tam té noci prováděli a že byl Colonel jejím vyprávěním tuze pobaven. Tak i tak již byl bohužel čas, abych se vrátil do města a ukončil tak své „hrátky s hňupkami“, které po mé poučné návštěvě už „hňupkami“ dále nebudou. Když nad tím tak přemýšlím, tak to, že Adam a Eva poznali, že jsou „nazí“, poté co okusili plody stromu vědění, má doopravdy znamenat, že objevili „_l’arte d’affaire l’amour_.“
+
+  
 
 Finis

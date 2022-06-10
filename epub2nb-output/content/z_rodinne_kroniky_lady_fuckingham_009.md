@@ -3,8 +3,6 @@ title: Kapitola I\.
 contentType: prose
 ---
 
-  
-
 Když mi bylo šestnáct let, zaučovala jsem se jako učitelka ve škole v N. Měla jsem svou vlastní ložnici, ale vždy jsem si k sobě vybrala jednu ze starších studentek, abych nespala sama. Má nejoblíbenější, Susey G, byla v podstatě mého věku a byla to velmi příjemná a sympatická dívka. Brzy jsme se staly důvěrnými přítelkyněmi a slíbily jsme si, že si budeme vyzrazovat i ta nejniternější tajemství.
 
 Obě jsme byly nadmíru zvědavé, když došlo na tajemství rozkoší lásky, a často jsme si o tomto tématu dokázaly povídat i celou noc, přičemž jsme se všelijak osahávaly a prstily si kundičky.
