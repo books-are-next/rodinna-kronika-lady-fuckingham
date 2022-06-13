@@ -6,7 +6,6 @@ contentType: prose
 
 
 
-
 <section>
 
 Máj, rozjařený to měsíc, byl vždy slavný pro svůj příznivý vliv na křehké pohlaví.
