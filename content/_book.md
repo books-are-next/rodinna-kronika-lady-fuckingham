@@ -25,7 +25,7 @@ readingOrder:
   - z_rodinne_kroniky_lady_fuckingham_012.html
   - z_rodinne_kroniky_lady_fuckingham_013.html
   - z_rodinne_kroniky_lady_fuckingham_014.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
