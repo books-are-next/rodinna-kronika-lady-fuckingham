@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-5bc810e",
-  "revision": "5bc810e",
+  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-2717351",
+  "revision": "2717351",
   "readingOrder": [
     "z_rodinne_kroniky_lady_fuckingham_001.html",
     "promo.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:47:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909238111
+    "date": "Tue Oct 04 2022 23:03:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924613878
   },
   "documents": [
     {
