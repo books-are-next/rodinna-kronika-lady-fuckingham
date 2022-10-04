@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-d01d5c6",
-  "revision": "d01d5c6",
+  "identifier": "creator-z-rodinne-kroniky-lady-fuckingham-99dda1f",
+  "revision": "99dda1f",
   "readingOrder": [
     "z_rodinne_kroniky_lady_fuckingham_001.html",
     "promo.html",
@@ -25,8 +25,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:03:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640219021
+    "date": "Tue Oct 04 2022 16:51:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902287171
   },
   "documents": [
     {
@@ -244,9 +244,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 137,
+      "words": 135,
       "chars": 902,
-      "ideas": 14,
+      "ideas": 12,
       "role": "about",
       "order": null,
       "prev": "z_rodinne_kroniky_lady_fuckingham_014.html",
@@ -264,9 +264,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40179,
+      "words": 40177,
       "chars": 231553,
-      "ideas": 1351
+      "ideas": 1349
     },
     "chapters": {
       "words": 40034,
